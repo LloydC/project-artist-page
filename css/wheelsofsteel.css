@@ -33,7 +33,9 @@ body {
   * CC-licensed pattern: 334: Sunrise Alpha Texture by Patrick Hoesly on Flickr
   * http://www.flickr.com/photos/zooboing/4169915237/in/photostream/
   */
- background: #000 url(../image/patrick-hoesly-334-sunrise-alpha-texture-128-dark.png);
+ background: #000;
+
+/* url(../image/patrick-hoesly-334-sunrise-alpha-texture-128-dark.png)*/
 }
 
 #tt-wrapper {
@@ -262,7 +264,7 @@ body.battle-style .turntable {
 }
 
 .turntable .platter .record .slipmat {
- background: transparent url(../image/slipmats/techniques.jpg) no-repeat 50% 50%;
+ background: transparent url(../images/shariefinburgundy.jpg) no-repeat 50% 50%;
 }
 
 .turntable.tripmat .record .slipmat {
